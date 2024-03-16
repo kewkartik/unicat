@@ -9,10 +9,10 @@ export default function Header() {
         College Deets Redefined {" "}
       </p>
       <h2 className="text-center text-xl md:text-4xl font-bold text-black">
-        we know what you actually want to see :)
+        NIRF, RTI, Placements, Clubs, Events and more
     </h2>
     <p className="text-center text-base md:text-lg font-normal text-neutral-700 max-w-md mt-2 mx-auto">
-      pookie
+    we know what you actually want to see, pookie 🎀
     </p>
     </div>
   );

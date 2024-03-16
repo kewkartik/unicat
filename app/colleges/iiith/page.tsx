@@ -80,7 +80,7 @@ const { data: notes } = await supabase.from('notes').select('id');
                 </div>
               </main>
             </div>
-            <div className="mt-[-20p]">
+            <div className="mt-[20px]">
               <main className={styles.main1}>
                 <ZoomParallax />
               </main>
@@ -152,7 +152,7 @@ const items = [
 
 const projects = [
   {
-    title1: "Medis",
+    title1: "Media",
     title2: "Council",
     src: "https://res.cloudinary.com/dvpxkx0yf/image/upload/v1710597856/IIT%20HYD/IIT%20HYD%20MEDIA%20COUNCIL.png"
   },
