@@ -10,11 +10,19 @@ TLDR : UNICAT - **NIRF, RTI, Placements, Clubs, Events Data all in one place!**
 # USP
 ![usp](https://github.com/kewkartik/unicat/assets/108450560/d83f4ab2-4b41-4b82-b158-aa41427e31be)
 
-College searching process isn't the easiest,many websites do not provide the data that users actually want and provide incomplete, false information, abuse the privacy of users. UNICAT is the solution for these problems. </br>
-We scraped data from NIRF using our own scripts and also got data from RTI which has never been done before, the data is 100% accurate. RTI data is difficult to obtain and confusing to understand, we manually got the data from the rti papers and made unicat the first exclusive website which holds college rti data. </br>
-This feature allows us to have premium subsets of users who are willing to pay a premium for the better experience and accuracy of the data, this has not only been tested but also requested by the users and customers.
+College searching process isn't the easiest, many websites do not provide the data that users actually want and provide incomplete, false information, abuse the privacy of users. UNICAT is the solution for these problems. 
+
+
+We scraped data from NIRF using our own scripts and also got data from RTI which has never been done before, the data is 100% accurate. RTI data is difficult to obtain and confusing to understand, we manually got the data from the rti papers and made unicat the **first exclusive website which holds college RTI data**. 
+
+
+This feature allows us to have premium subsets of users who are **willing to pay a premium for the better experience and accuracy of the data**, this has not only been tested but also requested by the users and customers.
 
 # Tech Stack
+
+
+![tech stack](https://github.com/kewkartik/unicat/assets/142828751/23441fe0-db0a-4206-b24d-20c6bf62c4a1)
+
 | Stack | Programs |
 | ----------- | ----------- |
 | Frontend | NextJS, TailwindCSS, Tremor, Framer Motion, etc |
@@ -22,7 +30,6 @@ This feature allows us to have premium subsets of users who are willing to pay a
 | Server Side |  Supabase auth, database, and analytics |
 | Devops |  Vercel for Hosting, Cloudflare CDN |
 
-![tech stack](https://github.com/kewkartik/unicat/assets/142828751/23441fe0-db0a-4206-b24d-20c6bf62c4a1)
 <p align="center">
   <img src="https://github.com/kewkartik/unicat/assets/142828751/e0654360-6a1d-4ed3-bf57-2f64216ef6dc" width="600px" />
   <img src="https://github.com/kewkartik/unicat/assets/142828751/acc309f2-c81d-4f2f-b9bc-2c3fc0c70ce2" width="600px" />
