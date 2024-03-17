@@ -1,6 +1,7 @@
 # UNICAT
 
-UNICAT is a user-friendly application aimed at simplifying the college selection process for students. It provides a platform where students can catalog their college choices along with essential information such as placement statistics, club offerings, gender ratio, and expenditure on college services. This application aims to empower students with the necessary insights to make informed decisions about their academic future.
+UNICAT is a user-friendly application aimed at simplifying the way college information is served, this is a centralized place to know what students actually want to know about a college! The data and beautiful graphs on this site are filled with reliable NIRF and RTI data, (fun fact: there has never been a centralized website with all colleges RTI details!)
+It provides a platform where students can catalog their college choices along with essential information such as placement statistics, club offerings, gender ratio, and expenditure on college services.
 
 TLDR : UNICAT - **NIRF, RTI, Placements, Clubs, Events Data all in one place!**
 
@@ -14,10 +15,18 @@ We scraped data from NIRF using our own scripts and also got data from RTI which
 This feature allows us to have premium subsets of users who are willing to pay a premium for the better experience and accuracy of the data, this has not only been tested but also requested by the users and customers.
 
 # Tech Stack
-![tech stark](https://github.com/kewkartik/unicat/assets/142828751/23441fe0-db0a-4206-b24d-20c6bf62c4a1)
+| Stack | Programs |
+| ----------- | ----------- |
+| Frontend | NextJS, TailwindCSS, Tremor, Framer Motion, etc |
+| Backend |  NextJS Server Side Functions, NodeJS |
+| Server Side |  Supabase auth, database, and analytics |
+| Devops |  Vercel for Hosting, Cloudflare CDN |
 
-![frontend](https://github.com/kewkartik/unicat/assets/142828751/e0654360-6a1d-4ed3-bf57-2f64216ef6dc)
-![backend](https://github.com/kewkartik/unicat/assets/142828751/acc309f2-c81d-4f2f-b9bc-2c3fc0c70ce2)
+![tech stack](https://github.com/kewkartik/unicat/assets/142828751/23441fe0-db0a-4206-b24d-20c6bf62c4a1)
+<p align="center">
+  <img src="https://github.com/kewkartik/unicat/assets/142828751/e0654360-6a1d-4ed3-bf57-2f64216ef6dc" width="600px" />
+  <img src="https://github.com/kewkartik/unicat/assets/142828751/acc309f2-c81d-4f2f-b9bc-2c3fc0c70ce2" width="600px" />
+</p>
 
 # Innovation
 ![INNOVATION](https://github.com/kewkartik/unicat/assets/142828751/436f15ed-1622-4a22-a8a6-fc32caa335ea)
