@@ -8,7 +8,7 @@ TLDR :
 # USP
 ![usp](https://github.com/kewkartik/unicat/assets/108450560/d83f4ab2-4b41-4b82-b158-aa41427e31be)
 
-
+College searching process isn't the easiest,many websites do not provide the data that users actually want and provide incomplete, false information, abuse the privacy of users. UNICAT is the solution for these problems, we scraped data from nirf using our own scripts and also got data from rti which has never been done before and the data is 100% accurate. rti data is difficult to obtain and confusing to understand, we manually got the data from the rti papers and made unicat the first exclusive website which holds college rti data. This feature allows us to have premium subsets of users who are willing to pay a premium for the better experience and accuracy of the data, this has not only been tested but also requested by the users and customers.
 
 # Tech Stack
 
