@@ -24,6 +24,8 @@ import { BarListHero } from "@/components/barklist";
 import ImageCard from "@/components/imagecard";
 import ImageCardSecond from "@/components/imagecardsecond";
 import ImageCardThird from "@/components/imagecardsthird";
+import { BarChartExp } from "@/components/barchart";
+
 export default async function Index() {
   const canInitSupabaseClient = () => {
     // This function is just for the interactive tutorial.
@@ -43,7 +45,7 @@ const { data: notes } = await supabase.from('notes').select('id');
   const isSupabaseConnected = canInitSupabaseClient();
 
   return (
-    <div className="flex-1 w-full flex flex-col gap-2 items-center">
+    <div className="flex-1 w-full flex flex-col items-center">
       <nav className="w-full flex justify-center border-b border-b-foreground/10 h-16">
         <div className="w-full max-w-4xl flex justify-between items-center p-3 text-sm">
           <DeployButton />
@@ -56,7 +58,7 @@ const { data: notes } = await supabase.from('notes').select('id');
     <Mask/>
           <div className="animate-in flex-1 flex flex-col gap-20 opacity-0 max-w-6xl px-3">
             <main className="flex-1 flex flex-col gap-6">
-            <BentoGrid className="max-w-4xl mx-auto pb-80">
+            <BentoGrid className="max-w-4xl mx-auto">
               {items.map((item : any, i : any) => (
                 <BentoGridItem
                   key={i}
@@ -68,7 +70,8 @@ const { data: notes } = await supabase.from('notes').select('id');
                 />
               ))}
             </BentoGrid>
-            <div className="py-2">
+            <BarChartExp/>
+            <div className="pt-1 md:pt-20">
               <main className={styles.main}>
                 <div className={styles.gallery}>
                   <p className="leading-7 [&:not(:first-child)]:mt-6">College Clubs</p>
@@ -80,7 +83,7 @@ const { data: notes } = await supabase.from('notes').select('id');
                 </div>
               </main>
             </div>
-            <div className="mt-[20px]">
+            <div className=" mt-10 md:mt-48">
               <main className={styles.main1}>
                 <ZoomParallax />
               </main>

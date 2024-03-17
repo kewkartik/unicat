@@ -8,9 +8,13 @@ const datahero = [
     value: 24,
   },
   {
-    name: 'Negative',
+    name: 'Neutral',
     value: 2,
   },
+  {
+    name: 'Negative',
+    value: 2,
+  }
 ];
 
 const dataFormatter = (number: number) =>

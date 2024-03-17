@@ -12,7 +12,7 @@
     overflow: hidden;
     position: sticky;
     top: 0;
-    height: 100vh;
+    height: 90vh;
     align-items: center;
     justify-content: center;
     mask-image: url('../../public/mask.svg');
