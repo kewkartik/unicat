@@ -1,7 +1,8 @@
 # UNICAT
+
 UNICAT is a user-friendly application aimed at simplifying the college selection process for students. It provides a platform where students can catalog their college choices along with essential information such as placement statistics, club offerings, gender ratio, and expenditure on college services. This application aims to empower students with the necessary insights to make informed decisions about their academic future.
 
-TLDR : College search website 
+TLDR : UNICAT - **NIRF, RTI, Placements, Clubs, Events Data all in one place!**
 
 ![Device Preview](https://github.com/kewkartik/unicat/assets/108450560/348e979a-3f3e-4f2f-a96c-71c6d70315ad)
 
@@ -21,10 +22,12 @@ This feature allows us to have premium subsets of users who are willing to pay a
 # Innovation
 ![INNOVATION](https://github.com/kewkartik/unicat/assets/142828751/436f15ed-1622-4a22-a8a6-fc32caa335ea)
 
-1. Modern Genz UI
-2. RTI, NIRF DATA
-3. Faster expirence
-4. Better Graphs and Charts
+1. RTI, NIRF DATA</br>
+For the data to be 100% accurate we got the **NIRF** list using our own scripts. we also got **RTI** data, RTI data is very difficult to obtain and confusing to understand, we manually went through all the rti documents and got accurate data. This makes unicat the first exclusive webiste to have college RTI data 
+2. Better Graphs and Charts</br>
+Through visually appealing charts, graphs, and infographics, students can quickly grasp key insights about colleges, such as placement statistics, gender ratios, and club participation rates. This visual approach not only enhances the accessibility of information but also facilitates comparative analysis, allowing students to make informed decisions based on easily digestible data.
+3. Modern Genz UI
+4. Faster expirence
 5. Built by students, for students, we understand thier needs, wants and pain!
 
 # Future Aspects
