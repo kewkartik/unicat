@@ -1,1 +1,2 @@
-# unicat
+# UNICAT
+UNICAT is a user-friendly application aimed at simplifying the college selection process for students. It provides a platform where students can catalog their college choices along with essential information such as placement statistics, club offerings, gender ratio, and expenditure on college services. This application aims to empower students with the necessary insights to make informed decisions about their academic future.
