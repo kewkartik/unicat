@@ -51,4 +51,4 @@ Through visually appealing charts, graphs, and infographics, students can quickl
 1. Enhanced Data Insights
 2. Interactive Features
 3. Personalized Recommendations
-4.  Continuous Improvement through Feedback
+4. Continuous Improvement through Feedback
